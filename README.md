@@ -22,7 +22,7 @@ This repository contains a Jupyter notebook demonstrating high-throughput grain 
 
 Click the badge below to launch the notebook in an interactive Binder environment:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyiron/HTSegregation_PyironWorkflow_Demonstrator/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyiron/HTSegregation_PyironWorkflow_Demonstrator/main)
 
 ## Local Installation
 
