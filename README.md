@@ -26,7 +26,18 @@ Click the badge below to launch the notebook in an interactive Binder environmen
 
 ## Local Installation
 
-To install the required dependencies locally:
+### Using Conda (Recommended)
+
+Create the environment from the `environment.yml` file:
+
+```bash
+conda env create -f environment.yml
+conda activate ht_segregation
+```
+
+### Using pip
+
+Alternatively, install the required dependencies with pip:
 
 ```bash
 pip install -e .
