@@ -1,4 +1,4 @@
-# HT Segregation Pyiron Workflow Demonstrator
+# High-throughput Segregation Pyiron Workflow Demonstrator
 
 High-throughput grain boundary segregation demonstrator using pyiron workflow, atomistics, and LAMMPS.
 
@@ -20,6 +20,7 @@ This repository contains Jupyter notebooks demonstrating high-throughput grain b
    - Contains data for all periodic table elements at 6 CSL grain boundaries in Fe
    - Dataset generated using DFT (VASP) calculations with a workflow similar to `grain_boundary_segregation.ipynb`
    - Demonstrates analysis techniques for large-scale segregation datasets
+   - Supplementary figures can be generated from the `SupplementaryFigures.ipynb` notebooks
 
 ## Requirements
 
@@ -78,12 +79,18 @@ If you use this workflow or dataset in your research, please cite:
 
 ```bibtex
 @article{FeGB_Segregation2025,
-  title={High-throughput grain boundary segregation and cohesion in Fe},
+  title={A high-throughput ab initio study of elemental segregation and cohesion at ferritic-iron grain boundaries},
   journal={Acta Materialia},
   year={2025},
+  author={Mai, Han Lin and Cui, Xiang-Yuan and Hickel, Tilmann and Neugebauer, Joerg and Ringer, Simon P},
+  volume={297},
+  pages={121288},
   doi={10.1016/j.actamat.2025.121288}
 }
 ```
+
+## Contact us
+Open an issue or email: h(dot)mai(at)mpi-susmat(dot)de
 
 ## License
 
