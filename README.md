@@ -1,6 +1,6 @@
 # High-throughput Segregation Pyiron Workflow Demonstrator
 
-High-throughput grain boundary segregation demonstrator using pyiron workflow, atomistics, and LAMMPS.
+High-throughput grain boundary segregation demonstrator using pyiron_workflow, pyiron_workflow_atomistics, and LAMMPS.
 
 ## Description
 
