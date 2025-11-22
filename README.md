@@ -33,8 +33,7 @@ This repository contains Jupyter notebooks demonstrating high-throughput grain b
 
 Click the badge below to launch the notebook in an interactive Binder environment:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ligerzero-ai/HTSegregation_PyironWorkflow_Demonstrator/main)
-
+[![Binder](https://notebooks.mpcdf.mpg.de/binder/badge_logo.svg)](https://notebooks.mpcdf.mpg.de/binder/v2/git/https%3A%2F%2Fgitlab.mpcdf.mpg.de%2Fhmai%2FHTSegregation_PyironWorkflow_Demonstrator.git/HEAD)
 ## Local Installation
 
 ### Using Conda (Recommended)
