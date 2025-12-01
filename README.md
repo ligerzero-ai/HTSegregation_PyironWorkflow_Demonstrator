@@ -36,6 +36,15 @@ Click the badge below to launch the notebook in an interactive Binder environmen
 [![Binder](https://notebooks.mpcdf.mpg.de/binder/badge_logo.svg)](https://notebooks.mpcdf.mpg.de/binder/v2/git/https%3A%2F%2Fgitlab.mpcdf.mpg.de%2Fhmai%2FHTSegregation_PyironWorkflow_Demonstrator.git/HEAD)
 ## Local Installation
 
+### Clone this Repository
+
+To get started, first clone this repository to your local machine:
+
+```bash
+git clone https://github.com/pyiron/HTSegregation_PyironWorkflow_Demonstrator.git
+cd HTSegregation_PyironWorkflow_Demonstrator
+```
+
 ### Using Conda (Recommended)
 
 Create the environment from the `environment.yml` file:
